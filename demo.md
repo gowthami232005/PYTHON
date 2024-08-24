@@ -1,2 +1,2 @@
-# PYTHON
-all programs in python
+
+print("hell0")
